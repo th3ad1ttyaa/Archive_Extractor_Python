@@ -42,7 +42,8 @@ python archive_extractor.py
     5.) Once the extraction is complete, a message box will show the success message.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT
+).
 
 # Credits
-* th3ad1ttyaa - Developer
+- [th3ad1ttyaa](https://github.com/th3ad1ttyaa) - Developer
